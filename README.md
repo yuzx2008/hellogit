@@ -1,1 +1,2 @@
-# hellogit 
+# hellogit
+hi，你好！
